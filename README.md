@@ -1,4 +1,4 @@
-# GARCH-Model-Intraday-Algorithmic-Trading-Strategy
+# GARCH Model Intraday Algorithmic Trading Strategy
 
 </br>
 <div align="center">
@@ -15,7 +15,7 @@
 
 - This repository is the result of following [this tutorial](https://www.youtube.com/watch?v=9Y3yaoi9rUQ) from Freecodecamp regarding how machine learning can be applied to algorithmic trading
 - The purpose of following this tutorial was to expand my machine learning skills into an area of which I have nascent knowledge but an interest in, which is algorithmic trading
-- The content of this repository involves applied daily and 5-minute intraday trading data to fit a GARCH model, in order to calculate volatility, prediction premium, and ultimately generate a position and final strategy returns
+- The content of this repository involves applied daily and 5-minute intraday trading data to fit a [GARCH model](<https://www.investopedia.com/terms/g/garch.asp#:~:text=Generalized%20AutoRegressive%20Conditional%20Heteroskedasticity%20(GARCH)%20is%20a%20statistical%20model%20used,an%20autoregressive%20moving%20average%20process.>), in order to calculate volatility, prediction premium, and ultimately generate a position and final strategy returns
 
 ## Algorithmic Trading Strategy Overview
 
